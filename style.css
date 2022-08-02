@@ -16,7 +16,7 @@ body {
 
     position: fixed;
     top: 0;
-    left: 15vw;
+    left: 0;
 
     z-index: 1;
   }
@@ -27,7 +27,7 @@ body {
      background-color: lightgreen;
 
     position: fixed;
-    top: 0;
+    top: 100px;
     left: 0;
   }
 /*FINE STILE HEADER E NAV */
