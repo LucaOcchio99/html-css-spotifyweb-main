@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+/* utility */
+body {
+    position: relative;
+}
+/*INIZIO STILE HEADER E NAV */
+  header {
+    width: 100%;
+    height: 100px;
+    background-color: lightblue;
+
+    position: fixed;
+    top: 0;
+    left: 15vw;
+  }
+
+  nav {
+     width: 230px;
+     height: 100%;
+     background-color: lightgreen;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+/*FINE STILE HEADER E NAV */
+
+
+/*FINE STILE FOOTER */
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: lightcoral;
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+/*FINE STILE FOOTER */
