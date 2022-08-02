@@ -17,6 +17,8 @@ body {
     position: fixed;
     top: 0;
     left: 15vw;
+
+    z-index: 1;
   }
 
   nav {
@@ -30,6 +32,17 @@ body {
   }
 /*FINE STILE HEADER E NAV */
 
+/* MAIN */
+ main {
+    width: 100%;
+    height: 100%;
+    background-color: lightgray;
+
+    position: fixed;
+    top: 0;
+    left: 230px;
+ }
+/* MAIN */
 
 /*FINE STILE FOOTER */
 footer {
